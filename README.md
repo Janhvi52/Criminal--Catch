@@ -1,9 +1,10 @@
 # Criminal--Catch
-A platform where you need to upload the videos of crime scenes and it'll detect the face from the faces saved in database and gives the names as per match!
 
-![Screenshot (88)](https://user-images.githubusercontent.com/97719669/206909951-460bbe00-de41-4783-a6be-980b5cd4a36b.png
+A platform where you need to upload the videos of crime scenes and it'll detect the face of the criminal from the faces saved in database and gives the names as per match!
 
-This is the Criminal--Catch website;s home page , which require more slides/section to be added in it to complete the website . If you are someone who has just started his/her journey in web dev then you should surely try to work on the issues of the projects as they are extremely beginner friendly , you can add the section using your creativity. Also, you can add new section if you want. The main aim of this Repository is to introduce you to open source and know the importance of project-based learning.
+![Criminal--Catch Website](https://user-images.githubusercontent.com/97719669/206909951-460bbe00-de41-4783-a6be-980b5cd4a36b.png)
+
+This is the Criminal--Catch website's home page, which require more slides/section to be added in it to complete the website. If you are someone who has just started his/her journey in web development then you should surely try to work on the issues of the projects as they are extremely beginner friendly , you can add the section using your creativity. Also, you can add new section if you want. The main aim of this Repository is to introduce you to open source and know the importance of project-based learning.
 
 🛠️ Installation Steps
 1. Fork the project. Click on the  icon in the top right to get started
