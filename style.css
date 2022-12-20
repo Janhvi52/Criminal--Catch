@@ -92,6 +92,7 @@ section{
     width: 100%;
     height: 100vh;
     background: linear-gradient(90deg,#4B56D2  70%,#82C3EC 30%);
+    font-size: 20px;
 }
 .container{
     display: flex;
