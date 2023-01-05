@@ -64,9 +64,11 @@ I am providing some Resource from where you can Learn -> [Click for Resources](h
 -------------------------------------------------------------------------------------------------
 Want to contribute?
 Take a look at contributing guidelines.
+  - [How to contribute?](/.github/CONTRIBUTING.md)
 
-Refer GitHub Flow -> 
-https://docs.github.com/en/get-started/quickstart/github-flow
+Do consider looking at other paradigms of this documentation
+  - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
+  - [Change-logs](/.github/CHANGELOG.md)
 
 Don't forget to leave a star✨
 
