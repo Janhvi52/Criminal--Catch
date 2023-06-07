@@ -71,3 +71,6 @@ https://docs.github.com/en/get-started/quickstart/github-flow
 Don't forget to leave a star✨
 
 HAPPY CONTRIBUTING!!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Copyright (c) 2023 Janhvi Singh](https://github.com/shivang21007/Criminal--Catch/blob/main/LICENSE)
