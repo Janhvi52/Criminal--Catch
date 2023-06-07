@@ -73,4 +73,4 @@ Don't forget to leave a star✨
 HAPPY CONTRIBUTING!!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-[Copyright (c) 2023 Janhvi Singh](https://github.com/shivang21007/Criminal--Catch/blob/main/LICENSE)
+ <p align="center"><a href="LICENSE">Copyright (c) 2023 Janhvi Singh</a></p>
